@@ -1,0 +1,9 @@
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\bin\Debug\Summit Stocks UI.exe.config
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\bin\Debug\Summit Stocks UI.exe
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\bin\Debug\Summit Stocks UI.pdb
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit Stocks UI.csprojResolveAssemblyReference.cache
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit_Stocks_UI.SSMain.resources
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit_Stocks_UI.Properties.Resources.resources
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit Stocks UI.csproj.GenerateResource.Cache
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit Stocks UI.exe
+c:\users\sage\documents\visual studio 2013\Projects\Summit Stocks UI\Summit Stocks UI\obj\Debug\Summit Stocks UI.pdb
